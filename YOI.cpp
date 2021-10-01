@@ -4,6 +4,8 @@ using namespace std;
 float func(float x){
 	return (x+77)/7;
 }
+
+// APA LU BOIII
 // mantap
 
 float kalku(float a, float b, char op){
