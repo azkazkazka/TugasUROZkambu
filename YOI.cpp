@@ -2,6 +2,7 @@
 using namespace std;
 
 float func(float x){
+	cout << "test" << endl;
 	return (x+77)/7;
 }
 // mantap
